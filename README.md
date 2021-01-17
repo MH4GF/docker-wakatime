@@ -1,1 +1,1 @@
-# docker-wakatime
+# docker-wakatime-cli
